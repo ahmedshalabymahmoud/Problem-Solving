@@ -1,4 +1,6 @@
 #include <iostream>
+#include <bits/stdc++.h>//scanf
+
 
 using namespace std;
 const int N = 1e5 + 5, M = 1e8, OO = 2000000007;
